@@ -1,0 +1,6 @@
+NIK|NAMA LENGKAP
+12345|Agus
+2022|Bayu
+4444|Chief
+11|anna
+5454|Aji

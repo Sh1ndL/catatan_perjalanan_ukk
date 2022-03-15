@@ -1,0 +1,7 @@
+8538|4444|Chief|2022-03-21|00:18|Yogyakarta|35 Celcius
+10041|4444|Chief|2022-03-15|08:45|Sekolah|35 Celcius
+4444|Chief|2022-03-15|09:17|Sekolah|36 Celcius
+4444|Chief|2022-03-15|09:22|Yogyakarta|36 Celcius
+4444|Chief|2022-03-15|09:22|Yogyakarta|36 Celcius
+11|anna|2022-03-15|09:29|Yogyakarta|37 Celcius
+5454|Aji|2022-03-15|10:01|Sekolah|36 Celcius
